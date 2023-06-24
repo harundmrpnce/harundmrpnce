@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **harundemirpence@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAFZdX9v350/eCdKeUR6F3KeLi7wbRbXdQ/view?utm_content=DAFZdX9v350&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFZdX9v350/eCdKeUR6F3KeLi7wbRbXdQ/view?utm_content=DAFZdX9v350&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harundmrpnce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harundmrpnce" height="30" width="40" /></a>
