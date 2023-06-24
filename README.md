@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Demirpence</h1>
-<h3 align="center">A student at ITU</h3>
+<h3 align="center">2<sup>nd</sup> grade Computer Engineering student at ITU</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f4/ad/80/f4ad8028457c798fdd85214f7265e539.jpg">
 
 - 🌱 I’m currently learning **JavaScript, C#**
