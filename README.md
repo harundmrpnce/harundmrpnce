@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harun Demirpence</h1>
-<h3 align="center">2<sup>nd</sup> grade Computer Engineering student at ITU</h3>
+<h1 align="center">Hi, I'm Harun Demirpence</h1>
+<h3 align="center">3<sup>rd</sup> grade Computer Engineering student at ITU</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f4/ad/80/f4ad8028457c798fdd85214f7265e539.jpg">
 
-- 🌱 I’m currently learning **JavaScript, C++**
-
 - 📫 How to reach me **harundemirpence@gmail.com**
-
-- 📄 Know about my experiences (https://www.canva.com/design/DAFoifPTEaY/bXYdWds67JVgsxBiunfSrQ/view?utm_content=DAFoifPTEaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
